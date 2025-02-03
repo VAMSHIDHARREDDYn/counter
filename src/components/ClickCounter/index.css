@@ -1,0 +1,35 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.count {
+  color: #c20a72;
+  font-family: 'Roboto';
+}
+p {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px;
+  width: 120px;
+  height: auto;
+  
+}
+body {
+  color: #f1f5f8;
+   display: flex;
+  justify-content: center;
+  align-items: center; 
+  min-height: 100vh; 
+  margin: 0;
+}
